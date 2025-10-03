@@ -1,0 +1,23 @@
+fluxsim: Direct Normal Irradiation, 600
+fluxsim: Solar azimuth angle (0=N), 90
+fluxsim: Solar elevation angle, 30
+Layout?, False
+, Units, Value, Mean, Minimum, Maximum, Std. dev
+Total plant cost, $, 121584807, , , , 
+Simulated heliostat area, m^2, 30427, , , , 
+Simulated heliostat count, -, 271, , , , 
+Power incident on field, kW, 30427, , , , 
+Power absorbed by the receiver, kW, 15952, , , , 
+Power absorbed by HTF, kW, -19059, , , , 
+Cloudiness efficiency, %, 100.00, , , , 
+Shadowing and Cosine efficiency, %, 75.91, , , , 
+Reflection efficiency, %, 87.56, , , , 
+Blocking efficiency, %, 98.30, , , , 
+Image intercept efficiency, %, 85.01, , , , 
+Absorption efficiency, %, 94.39, , , , 
+Solar field optical efficiency, %, 55.54, , , , 
+Optical efficiency incl. receiver, %, 52.43, , , , 
+Incident flux, kW/m2, 14.462, 0.000, 149.983, 30.780, 
+No. rays traced, -, 674004, , , , 
+No. heliostat ray intersections, -, 100000, , , , 
+No. receiver ray intersections, -, 73172, , , , 
