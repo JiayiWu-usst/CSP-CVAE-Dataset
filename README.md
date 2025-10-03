@@ -10,7 +10,7 @@ This dataset contains comprehensive simulation data for solar energy optimizatio
 The unified training dataset contains **1,200 simulation cases** covering diverse operational conditions:
 
 - **Case Range**: `simulation_case_001` to `simulation_case_1200`
-- **Solar Conditions**: Various Cloud conditions, DNI levels, azimuth angles, and elevation angles
+- **Conditions**: Various Cloud conditions, DNI levels, azimuth angles, and elevation angles
 - **Heliostat Configurations**: 271 heliostats with different aiming strategies
 
 #### Data Files per Case
